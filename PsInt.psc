@@ -8,9 +8,9 @@ Algoritmo peso_de_fluido_bernolli
 	Escribir "ingresa la altura menor: H1."
 	Leer  h1
 	
-	Escribir "Ingresa la Presión a la altura menor: P1"
+	Escribir "Ingresa la PresiÃ³n a la altura menor: P1"
 	Leer  p1
-	Escribir "Ingresa la Presión a la altura mayor : P2"
+	Escribir "Ingresa la PresiÃ³n a la altura mayor : P2"
 	Leer  p2
 	Escribir "Ingresa el peso del fluido : YF"
 	Leer  yf
